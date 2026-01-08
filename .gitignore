@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+venv311/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
